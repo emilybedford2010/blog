@@ -1,1 +1,13 @@
 theme: jekyll-theme-architect
+name: Emily Bedford
+title:  Emilys Funtastical Facts!
+
+permalink: /:title/
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - CNAME
+    - README.md
+    - cacert.pem
