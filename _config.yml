@@ -4,8 +4,8 @@ title:  Emilys Funtastical Facts!
 
 baseurl: ""
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+future: true
+
 url: http://www.emily-bedford.com
 
 permalink: /:title/
